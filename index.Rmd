@@ -8,7 +8,7 @@ output:
 
 ----
 
-## Summary
+## <span style="color:red">Summary</span>
 
 My academic and professional experience focuses on the development and implementation of information technology solutions to solve complex business problems, particularly those involving data, its interpretation and associated quantitative analytics.  In particular, I have significant experience in mathematical model development and statistical analysis, with concomitant experience in business case development, project planning and management, technical design and software development of Business Intelligence, Data Warehousing and Mathematical/Statistical efforts, and have led or participated in teams that provided the foregoing solutions.
 
@@ -18,23 +18,23 @@ My recent technical experience includes the following: \textit{Statistical Data 
 
 ----
 
-## Education
+## <span style="color:red">Education</span>
 
 - University of British Columbia, Vancouver, BC
-    - B.SC. IN PHYSICAL GEOGRAPHY (GEOMORPHOLOGY)
+    - B.SC., PHYSICAL GEOGRAPHY (GEOMORPHOLOGY)
     - Focus on Fluvial Geomorphology
     
 - University of British Columbia, Vancouver, BC
-    - B.SC. IN COMPUTER SCIENCE
+    - B.SC., COMPUTER SCIENCE
     - Focus on Software Development (as opposed to Hardware Design)
 
 - University of British Columbia, Vancouver, BC
-    - M.SC. IN STATISTICS
+    - M.SC., STATISTICS
     - Dissertation: Resampling-based Variance Estimators
 
 ----
 
-## Skills
+## <span style="color:red">Skills</span>
 
 - Programming: Visual Studio, Python, SQL, PHP, C/C++, VBA, Javascript, LaTeX
 - Data Science: R Statistical System, RStudio, Knitr, D3.JS
@@ -44,7 +44,7 @@ My recent technical experience includes the following: \textit{Statistical Data 
 
 ----
 
-## Work Experience
+## <span style="color:red">Work Experience</span>
 
 - KL Consulting Inc, Brampton, ON 
     - MANAGEMENT CONSULTANT: 2004 - PRESENT
@@ -66,9 +66,9 @@ My recent technical experience includes the following: \textit{Statistical Data 
  
 ----
 
-## Project Experience
+## <span style="color:red">Project Experience</span>
 
-#### Project Management Assignments
+#### <span style="color:red">Project Management Assignments</span>
 
 For a leading, diversified North American energy generation company, simultaneously served as Program Manager and Project Manager for three critical projects, with a combined annual budget of over \$3 million dollars, primarily focused on enabling the client to better collect, store and interpret various data sources so as to increase revenues, reduce costs and detect fraudulent or inappropriate behavior by energy traders.  I served as my employers’ primary on-site representative at this client, where these were the employers’ first projects at this major client.  My Project Management responsibilities included the following duties: 
 
@@ -91,7 +91,7 @@ I served as Project Manager and Statistical SME for the development of a market 
 
 #### Computational Assignments
 
-For a North American stock exchange, I designed and developed a PC-based computer program that implements a statistical technique for filtering a large dataset and identifying securities with a high probability of manipulation.  This client server computer program was developed using Microsoft Visual Studio, and accessed a server-based non-Microsoft database.   
+For a North American stock exchange, I designed and developed a PC-based computer program that implements a statistical technique for filtering a large dataset and identifying securities with a high probability of manipulation.  This client server computer program was developed using Microsoft Visual Studio, and accessed a server-based non-Microsoft database.
 
 For a major Canadian bank, developed requirements specifications for customization to fixed income valuation software. 
 Served as Project Manager and lead author of a multi-disciplinary team's response to a client Request for Proposals for the installation and implementation of an ERP-based program and funding management system based upon the installation of a PeopleSoft 8-based suite of data warehouse, analysis and financial management software packages.  Our detailed proposal envisioned an 18-month, \$10 million dollar engagement that comprised peak loading of 30 professional staff.   
@@ -144,13 +144,13 @@ I have provided statistical and mathematical support in several legal cases befo
 
 ----
 
-## Service
+## <span style="color:red">Service</span>
 
-2008+ Board Member and past Vice Chair, Brampton Public Library, Brampton, ON
+2008+ --- Board Member and past Vice Chair, Brampton Public Library, Brampton, ON
 
-2010+ Member and past Chair,Turner Fenton Secondary School Parent Council, Brampton, ON
+2010+ --- Member and past Chair, Turner Fenton Secondary School Parent Council, Brampton, ON
 
-1990+ Judge,Various Regional and National Science Fairs
+1990+ --- Judge, Various Regional and National Science Fairs
 
 ----
 
