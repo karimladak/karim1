@@ -17,6 +17,7 @@ I have considerable experience in leading highly technical projects and teams. I
 My recent technical experience includes the following: \textit{Statistical Data Analysis} (exploratory data analysis, multivariate analysis, and sampling plan development); \textit{Mathematical Algorithm Development} (securities market fraud detection, yield management algorithms, energy markets surveillance, manufacturing quality control); \textit{Software Coding and Development} (Visual Studio, Python, SQL, PHP, C/C++, VBA, Javascript, R Statistical System and RStudio); \textit{Report Writing} (expert witness reports, strategic analysis reports, requirements specifications, software design documents, coding standards); \textit{Project Management} (utilizing project management methodologies to manage multidisciplinary teams of over 15 staff and budgets of over \$5 million); as well as Proposal Development and Presentation, and Contract Negotiation.
 
 ----
+
 ----
 
 ## Older 
