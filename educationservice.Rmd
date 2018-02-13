@@ -1,0 +1,34 @@
+---
+title: "Karim Ladak: Curriculum Vitae"
+author:  "[karim.ladak@gmail.com](mailto:karim.ladak@gmail.com)"
+output:
+  html_document:
+    fig_width: 1
+---
+
+----
+
+## <span style="color:red">Education</span>
+
+- University of British Columbia, Vancouver, BC
+    - B.Sc., Physical geography
+    - Focus on Fluvial Geomorphology
+    
+- University of British Columbia, Vancouver, BC
+    - B.Sc., Computer Science
+    - Focus on Software Development (as opposed to Hardware Design)
+
+- University of British Columbia, Vancouver, BC
+    - M.Sc., Statistics
+    - Dissertation: Resampling-based Variance Estimators
+
+----
+
+## <span style="color:red">Service</span>
+
+2008+ --- Board Member and past Vice Chair, Brampton Public Library, Brampton, ON
+
+2010+ --- Member and past Chair, Turner Fenton Secondary School Parent Council, Brampton, ON
+
+1990+ --- Judge, Various Regional and National Science Fairs
+

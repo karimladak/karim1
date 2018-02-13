@@ -1,0 +1,30 @@
+---
+title: "Karim Ladak: Curriculum Vitae"
+author:  "[karim.ladak@gmail.com](mailto:karim.ladak@gmail.com)"
+output:
+  html_document:
+    fig_width: 1
+---
+
+----
+
+## <span style="color:red">Work Experience</span>
+
+- KL Consulting Inc, Brampton, ON 
+    - MANAGEMENT CONSULTANT: 2004 - PRESENT
+    - Provision of Management Consulting services to clients across many industries, including financial services, financial asset securiti-sation, investment management, and law enforcement.
+    - Utilization of a variety of data science skillsets, ranging from web technologies to data science tools.
+    - Experienced with technical design, software development, mathematical modeling and statistical analysis.
+    
+- IBM Global Services, Toronto, ON
+    - ASSOCIATE PARTNER: 2002 - 2004
+    - Moved to IBM as part of sale of PwC Consulting practice.
+    - Primarily focused on a single electricity generation client.
+    - Part of Data Warehousing practice.
+    
+- PwC PricewaterhouseCoopers, Vancouver, BC and Toronto, ON
+    - ASSOCIATE PARTNER: 1990 - 2002
+    - First employment post-University.
+    - Worked within many different units, including Audit and Assurance, Small Business Services, and Management Consulting.
+    - Served clients from the following industries: Airlines, Banking, Financial Services, Forestry, Government, and Hospitality, StockExchanges
+ 
