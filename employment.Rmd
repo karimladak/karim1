@@ -1,9 +1,5 @@
 ---
-title: "Karim Ladak: Curriculum Vitae"
-author:  "[karim.ladak@gmail.com](mailto:karim.ladak@gmail.com)"
-output:
-  html_document:
-    fig_width: 1
+title: "Employment History"
 ---
 
 ----
