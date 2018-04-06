@@ -21,7 +21,7 @@ My recent technical experience includes the following: \textit{Statistical Data 
 ## <span style="color:red">Skills</span>
 
 - Programming: Visual Studio, Python, SQL, PHP, C/C++, VBA, Javascript, LaTeX
-- Data Science: R Statistical System, RStudio, Knitr, D3.JS
+- Data Science: R Statistical System, RStudio, S, S+
 - Statistics: Exploratory data analysis, multivariate analysis, sampling plan development, regression analysis, ANOVA
 - Algorithms: Securities market fraud detection, yield & revenue management, energy markets surveillance, financial valuation
 - Writing: Strategic analysis reports, requirements specifications, software design documents, coding standards
