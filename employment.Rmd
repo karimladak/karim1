@@ -8,7 +8,7 @@ title: "Employment History"
 
 - KL Consulting Inc, Brampton, ON 
     - MANAGEMENT CONSULTANT: 2004 - PRESENT
-    - Provision of Management Consulting services to clients across many industries, including financial services, financial asset securiti-sation, investment management, and law enforcement.
+    - Provision of Management Consulting services to clients across many industries, including financial services, financial asset securitisation, investment management, and law enforcement.
     - Utilization of a variety of data science skillsets, ranging from web technologies to data science tools.
     - Experienced with technical design, software development, mathematical modeling and statistical analysis.
     
@@ -22,5 +22,5 @@ title: "Employment History"
     - ASSOCIATE PARTNER: 1990 - 2002
     - First employment post-University.
     - Worked within many different units, including Audit and Assurance, Small Business Services, and Management Consulting.
-    - Served clients from the following industries: Airlines, Banking, Financial Services, Forestry, Government, and Hospitality, StockExchanges
+    - Served clients from the following industries: Airlines, Banking, Financial Services, Forestry, Government, and Hospitality, Stock Exchanges
  
